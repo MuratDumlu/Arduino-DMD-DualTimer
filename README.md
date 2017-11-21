@@ -3,7 +3,8 @@ Watch in action https://youtu.be/-lQrRi7WQlo
 
  Flicker free P10 DMD LED board powered by Arduino Pro Mini. Toggle Switch introduced for switching between 2 different Timer.
  
-LED ~ Arduino Pin Connection		
+LED ~ Arduino Pin Connection
+
 		DMD Pin - GPIO 
 	From Top Right (Notch Side)
 		
